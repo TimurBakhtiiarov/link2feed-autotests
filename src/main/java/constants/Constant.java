@@ -9,6 +9,6 @@ public class Constant {
 
     public static class Urls {
         public static final String CLIENT_ENROLLMENT_PAGE_URL = "https://test-atn1.link2feed.com/";
-        public static final String CLIENT_RESET_PASSWORD_URL = CLIENT_ENROLLMENT_PAGE_URL + "/reset-password";
+        public static final String CLIENT_RESET_PASSWORD_URL = CLIENT_ENROLLMENT_PAGE_URL + "reset-password";
     }
 }
